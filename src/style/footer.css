@@ -1,0 +1,13 @@
+.footer{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.footer1{
+  margin: 30px 30px;
+  width: 25%;
+}
+.c11{
+  width: 50%;
+  padding: 10px;
+}
